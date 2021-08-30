@@ -19,7 +19,7 @@ It is a continuation and extension of the exploratory work I already done for th
 # FINALLY I DE-EXCELLED!!!!
 ## Brief Comments and conclusions: 
 
-* With the help of the Alura Bootcamp Applied Data Sciences II, Alura courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver all the 3 phases of this module 3 project entirely within one Google Colab notebook () using Python related packages.
+* With the help of the Alura Bootcamp Applied Data Sciences II, Alura courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver all the 3 phases of this module 3 project entirely within one Google Colab notebook (M3_sc0207_07am.ipynb) using Python related packages. This notebook is located on My Drive > Alura DS Bootacamp > Combinations of Concern > Vac_C19_M3_Alura_sc0207_07am
 
 * We notice that, up to 30 Jun 21, in the Brazilian state of Santa Catarina, the previously trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern' is still valid (368,833 (CoC_1 + CoC_3) out of a total of 3,133,344 registrations).
 
