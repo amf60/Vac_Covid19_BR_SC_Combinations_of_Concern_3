@@ -19,7 +19,7 @@ It is a continuation and extension of the exploratory work I already done for th
 # FINALLY I DE-EXCELLED!!!!
 ## Brief Comments and conclusions: 
 
-* With the help of the Alura Bootcamp Applied Data Sciences II, Alura courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver all the 3 phases of this module 3 project entirely within one Google Colab notebook using Python related packages.
+* With the help of the Alura Bootcamp Applied Data Sciences II, Alura courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver all the 3 phases of this module 3 project entirely within one Google Colab notebook () using Python related packages.
 
 * We notice that, up to 30 Jun 21, in the Brazilian state of Santa Catarina, the previously trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern' is still valid (368,833 (CoC_1 + CoC_3) out of a total of 3,133,344 registrations).
 
@@ -30,7 +30,7 @@ It is a continuation and extension of the exploratory work I already done for th
 Finally, as already explained elsewhere, I am tailoring all the above with the end_user in mind: the SC UDVE manager and local teams at the each 'vaccination center'. Therefore, at the end of this bootcamp we may use the material above to easily identify and isolate all the registrations with 'combinations of concern' for appreciation at several levels - UDVE, county, vaccination center, etc. More about how that can be done in a sensitive way with efficiente Risk Based Monitoring techniques I use in clinical trials may be presented in the next two modules.
 
 
-## (1) Further information about this original raw dataset for this repository
+### (1) Further information about this original raw dataset for this repository
 
 To have the most updated dataset up to 30 Jun 2021, I downloaded the file from OpenDataSus on 02 Jul 21 at 07 am, and re-named my downloaded master file to match this (sc0207_07am_csv).
 
