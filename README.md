@@ -25,10 +25,10 @@ It is a continuation and extension of the exploratory work I already done for th
 
 * With the help of the Alura Bootcamp Applied Data Sciences II, Alura courses Programming with Python, Python for DataSciences, services as stackoverflow, medium and others, I accomplished my objective to deliver all the 3 phases of this module 3 project entirely within one Google Colab notebook using Python related packages.
 
-# We notice that, in Santa Catarina, on 30 Jun 21, the overall trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern' is still valid (368,833 (CoC_1 + CoC_3) out of a total of 3,133,344 registrations).
+* We notice that, in Santa Catarina, on 30 Jun 21, the overall trend of 12% registrations of covid_19 vaccinations with 'Combinations of Concern' is still valid (368,833 (CoC_1 + CoC_3) out of a total of 3,133,344 registrations).
 
-# UDVE 13 alone clusters 62% of the state total of 'Combinations of Concern' (229,208 out of 368,833).
+* UDVE 13 alone clusters 62% of the state total of 'Combinations of Concern' (229,208 out of 368,833).
 
-# "'No_issue'" - as already mentioned, from the pharmacovigilance point of view, is not totally correct, as I noticed some other 'combinations of worrying' (to distinguish of the definition of 'CoC'). So I may tackle 'combinations of worrying' in the projects of the next two modules of this bootcamp.
+* "'No_issue'" - as already mentioned, from the pharmacovigilance point of view, is not totally correct, as I noticed some other 'combinations of worrying' (to distinguish of the definition of 'CoC'). So I may tackle 'combinations of worrying' in the projects of the next two modules of this bootcamp.
 
 Finally, as explained, I am tailoring all the above with the end_user in mind: the SC UDVE manager and local teams at the each 'vaccination center'. Therefore, at the end of this bootcamp we may use the material above to easily identify and isolate all the registrations with 'combinations of concern' for appreciation at several levels - UDVE, county, vaccination center, etc. More about how that can be done in a sensitive way with efficiente Risk Based Monitoring techniques I use in clinical trials may be presented in the next two modules.
